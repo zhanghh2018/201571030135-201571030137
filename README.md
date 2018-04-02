@@ -9,3 +9,8 @@ LoginIn（）：登录界面
 PrintChart（）：绘制分数图
 ReadFile（）：一行一行读文件
 UI()：答题界面
+/lib:
+以下三个包均是用来绘制图形使用的
+gnujaxp-1.0.0.jar
+jfreechart-1.0.13.jar
+jcommon-1.0.16.jar
