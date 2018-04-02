@@ -1,6 +1,7 @@
 # 201571030135-201571030137
 小学生四则运算
-src:
+文件解释：
+/src:
 ContentToTxt():将内容写入文件
 ContinuTest（）：询问是否进行下一轮测试
 DTimeFrame（）：计时功能
